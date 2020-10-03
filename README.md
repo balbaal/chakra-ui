@@ -25,9 +25,9 @@ that make it super easy to create websites and apps.
 
 ## Looking for the documentation? 📝
 
-For older versions, head over here => https://chakra-ui.com
+For older versions, head over here ⇒ https://chakra-ui.com
 
-Latest version (pre-release) => https://next.chakra-ui.com
+Latest version (pre-release) ⇒ https://next.chakra-ui.com
 
 ## Features 🚀
 
@@ -123,7 +123,7 @@ function App({ children }) {
 ```
 
 Optionally, you can wrap your application with the `ColorModeProvider` so you
-can toggle beween light and dark mode within your app.
+can toggle between light and dark mode within your app.
 
 2. Now you can start using components like so!:
 
